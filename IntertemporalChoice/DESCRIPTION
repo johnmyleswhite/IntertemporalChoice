@@ -1,0 +1,10 @@
+Package: IntertemporalChoice
+Type: Package
+Title: Functions to fit microeconomic models of intertemporal discounting to choice data.
+Version: 1.0
+Date: 2010-04-21
+Author: John Myles White
+Maintainer: John Myles White <jmw@johnmyleswhite.com>
+Description: Microeconomics provides two canonical models of the value of delayed goods: the exponential discounting model and the hyperbolic discounting model. This package provides tools to estimate the parameters for both of these models from empirical choice data. Functions are also included to make predictions from fitted models and to simulate choice behavior for ideal agents with specified parameters.
+License: Artistic-2.0
+LazyLoad: yes
